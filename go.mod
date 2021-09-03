@@ -1,4 +1,4 @@
-module github.com/ghhong1986/hello_test
+module github.com/ghhong1986/hello_test/v2
 
 go 1.14
 

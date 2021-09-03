@@ -6,8 +6,8 @@ import (
 
 
 // hello
-func Hello() string {
-	return quote.HelloV3()
+func Hello(ss string ) string {
+	return quote.HelloV3() + ss
 }
 
 func Proverb() string {
